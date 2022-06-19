@@ -9,7 +9,7 @@ The purpose of analyzing this data was for many reasons. Louise wants his play F
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcome Based on Launch Date](.Resources/Outcomes_vs_Goals.png)
+![Outcome Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
