@@ -16,6 +16,8 @@ The purpose of analyzing this data was for many reasons. Louise wants his play F
 ### Analysis of Outcomes Based on Goals
 ![Outcome Based on Goal](./Outcomes_vs_Goals.png)
 
+*This graph provides us data about how successful campaigns were based on their monetary goal. We see that the categories of "Less than $1000" and "$1000 to $4999" appear to have the highest success rates.
+
 ### Challenges and Difficulties Encountered
 
 ## Results
