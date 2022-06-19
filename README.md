@@ -10,6 +10,7 @@ The purpose of analyzing this data was for many reasons. Louise wants his play F
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcome Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
+
 *Based on the graph created above, Louise should most likely launch his kickstarter in either May, June, or July. The worst month appears to be December, where the number os successful and failed campaigns are almost equal.
 
 ### Analysis of Outcomes Based on Goals
