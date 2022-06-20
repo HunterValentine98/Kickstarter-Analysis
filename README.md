@@ -19,6 +19,7 @@ The purpose of analyzing this data was for many reasons. Louise wants his play F
 *This graph provides us data about how successful campaigns were based on their monetary goal. We see that the categories of "Less than $1000" and "$1000 to $4999" appear to have the highest success rates.
 
 ### Challenges and Difficulties Encountered
+While working on this project, I ran into a few challenges. When working with the graph based on goals, it would display failed and canceled percentages as 100% throughout. I changed the line graph to a different style, and it seemed to correctly display the data afterwards. I also struggled with the COUNTIFS function while learning the criteria that needed to be entered. The excel function would only let you enter 2 sets of categories to filter by. From here, I manually had to enter the location and what to filter by if I wanted to filter by a 3rd or 4th category. I believe this helped a lot because it taught me how to actually use the function rather than letting excel create the function for me. The last category that was challenging for me to figure out was filtering the worksheet with more than one filter. I soon realized that if you highlight the row completely and then apply filters, the prior filters will stay as you add more filters.
 
 ## Results
 
