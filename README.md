@@ -24,8 +24,11 @@ While working on this project, I ran into a few challenges. When working with th
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  1. The most successful months appeared to be May, June, and July. I would advise Louise to try and launch his Kickstarter campaign within these three months, with        May being the most successful by a decent amount (in terms of an actual number of successful campaigns, not a percentage of total campaigns).
+  2. I would advise Louise to not launch his campaign in December. It appears to be the worst month by far to start a campaign (in both total number of successful          campaigns and percentage of campaigns that were successful). The number of successful campaigns and failed campaigns that launched in December are almost equal.
 
 - What can you conclude about the Outcomes based on Goals?
+  1. The most successful campaigns appear to be those with a goal that is less than $5000. I would inform Louise to try to keep his goal as low as he can (preferably below $5000 if possible) because this seems to increase his chances of the goal being met.
 
 - What are some limitations of this dataset?
 
