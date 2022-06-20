@@ -31,6 +31,8 @@ While working on this project, I ran into a few challenges. When working with th
   1. The most successful campaigns appear to be those with a goal that is less than $5000. I would inform Louise to try to keep his goal as low as he can (preferably below $5000 if possible) because this seems to increase his chances of the goal being met.
 
 - What are some limitations of this dataset?
+  With this dataset, we are looking at historical data. When looking at historical data for a future campaign, we have no idea if we can use old data to predict what     future trends will happen to look like. We are also only limited to tabular data as well. If we could have links to the actual kickstarter pages, we could look at     the pages for successful campaigns and provide Louise feedback about how he should design his campaign page.
 
 - What are some other possible tables and/or graphs that we could create?
+  It would have been interesting to look at line graph from when the data was collected until today. In this graph, we could see if the success rate of kickstarter       campaigns has decreased or increased as we have gotten closer to when Louise is trying to launch his campaign. If it appears that recently kickstarter campaigns for   plays have not been doing well, we could inform Louise to most likely hold off until we have new data showing that plays seem to be doing well again.
 
